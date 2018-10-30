@@ -1,4 +1,4 @@
-15-112 Project:
+# 112Tag: 15-112 Project:
 
 -- How to play! --
 
@@ -32,4 +32,3 @@ https://www.newgrounds.com/portal/view/525978 (Screenshotted from in game)
 https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1223255-32x-1-4-gerudoku-31-mar-2011-outdated-see-pg-100?page=37
 
 8) Baby image from instructions: http://news.mmosite.com/content/2010-01-26/pop_tag_open_beta_test_will_start_on_january_26th,1.shtml# 112tag
-# 112Tag
