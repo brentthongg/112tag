@@ -6,7 +6,7 @@ The file to start is "112Tag.py". You're going to have to install pygame if you 
 https://www.pygame.org/wiki/GettingStarted
 
 -- Video! -- 
-Watch the video here!: https://www.youtube.com/watch?v=l3MhUNUoFcc
+Please contact me to see the video!
 
 -- Citations --
 
