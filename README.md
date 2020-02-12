@@ -1,14 +1,14 @@
-# 112Tag: 15-112 Project:
+## 112Tag: 15-112 Project:
 
--- How to play! --
+# How to play!
 
 The file to start is "112Tag.py". You're going to have to install pygame if you don't have the library already. Instructions on how to install pygame can be found here:
 https://www.pygame.org/wiki/GettingStarted
 
--- Video! -- 
+# Video 
 Please contact me to see the video!
 
--- Citations --
+# Citations
 
 1) Background (splash screen and stuff) code from:
 stackoverflow.com/questions/28005641/how-to-add-a-background-image-into-pygame
